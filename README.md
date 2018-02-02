@@ -1,2 +1,2 @@
 # JenkinsPractice
-PracticeRepo - 0 Touch Automation Setup
+PracticeRepo - Zero Touch Automation Setup
